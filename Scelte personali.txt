@@ -1,0 +1,23 @@
+Ho deciso di sdeviare un' po' dai protocolli e smart contracts
+suggeriti nella preparazione al progetto.
+Ho utilizzato come esempi e dimostrazioni quelli che da anni utilizzo quasi giornalmente
+Tra cui il progetto Illuvium, Sushiswap Immutable X e ENS
+Lascio il mio indirizzo ethereum se necessitate di verificare le mie interezioni con gli smart contract
+
+
+0x576C8b7FbeCb349a39542D5345FA1CC2D6F99F70
+
+ENS
+
+frank-z.eth
+
+
+Spero vada tutto bene
+
+Un saluto
+
+Francesco 
+
+
+ps: mi sono divertito un sacco a fare questa presentazione
+e avrai voluto fare altre 30-40 slides 
